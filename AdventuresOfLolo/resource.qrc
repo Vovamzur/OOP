@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>img/bau.png</file>
+        <file>img/bauAberto.png</file>
+        <file>img/bauVazio.png</file>
+        <file>img/bichoVerde.png</file>
+        <file>img/bricks.png</file>
+        <file>img/coracao.png</file>
+        <file>img/lolo.png</file>
+        <file>img/loloL.png</file>
+        <file>img/loloR.png</file>
+        <file>img/loloU.png</file>
+        <file>img/ovo.png</file>
+        <file>img/paredeAtras.png</file>
+        <file>img/paredeFrente1.png</file>
+        <file>img/paredeFrente2.png</file>
+        <file>img/paredeLateral.png</file>
+        <file>img/paredeLateral2.png</file>
+        <file>img/porta.png</file>
+        <file>img/portaAberta.png</file>
+        <file>img/pedra.png</file>
+        <file>img/caixa.png</file>
+        <file>img/bichoRosa2.png</file>
+        <file>img/bichoRosaAcordado2.png</file>
+        <file>img/fire.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

@@ -1,0 +1,23 @@
+#ifndef GAMEOBJECT_H
+#define GAMEOBJECT_H
+
+#include <QPixmap>
+
+const unsigned int OBJECT_WIDTH = 64;
+const unsigned int OBJECT_HIGHT = 64;
+
+class GameObject
+{
+protected:
+    int x, y;
+    
+    QPixmap image;
+ 
+public:
+    GameObject();
+    QPixmap GetImage();
+    void SetImage(QString path);
+    
+};
+
+#endif // GAMEOBJECT_H
